@@ -20,6 +20,7 @@ Assuming you're on a mac...
     brew install git
     brew install node
     npm install -g grunt-cli
+    npm install -g bower
     ```
 
 * Clone the repo:
